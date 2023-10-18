@@ -7,7 +7,7 @@ Welcome to the Mad Libs Python program! This fun and interactive game lets users
    - Make sure you have Python installed on your system.
    - Clone this repository to your local machine using the following command:
      ```
-     git clone [https://github.com/yourusername/mad-libs-python.git](https://github.com/MakaylaWray/MadLib)
+     git clone https://github.com/MakaylaWray/MadLib
      ```
 
 2. **Run the Program**:
